@@ -1,1 +1,4 @@
 # easy.mystery
+
+b
+c
