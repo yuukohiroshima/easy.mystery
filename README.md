@@ -1,4 +1,1 @@
 # easy.mystery
-
-b
-c
